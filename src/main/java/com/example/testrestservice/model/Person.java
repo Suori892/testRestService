@@ -2,7 +2,7 @@ package com.example.testrestservice.model;
 
 import javax.persistence.*;
 import java.util.Objects;
-
+//test
 @Entity
 @Table(name = "people")
 public class Person {
